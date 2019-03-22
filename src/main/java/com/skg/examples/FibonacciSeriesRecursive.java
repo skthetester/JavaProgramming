@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Program to print required number of fibonacci series
  * eg: 1 1 2 3 5 8 13 21 34
- * RECURSIVE METHOD
+ * RECURSIVE METHOD - formula: (fbn-1) + (fbn-2)
  */
 
 public class FibonacciSeriesRecursive {
